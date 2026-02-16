@@ -1,5 +1,3 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f57c30d1-7753-4c80-bbae-c6c247d281cb" /># REVPAY
-
 RevPay – Digital Wallet & Payment Management System
 📌 Project Overview
 
@@ -178,9 +176,17 @@ Admin approves loan
 
 Loan status updated
 
+📊 ER Diagram
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f57c30d1-7753-4c80-bbae-c6c247d281cb" /># REVPAY
+
+
+
 🚀 How to Run the Project
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/RevPay.git
+
+git clone https://github.com/srujithkandala-prog/REVPAY.git
 
 2️⃣ Setup MySQL Database
 
@@ -196,7 +202,7 @@ private static final String URL = "jdbc:mysql://localhost:3306/RevPayApp";
 private static final String USER = "root";
 private static final String PASSWORD = "your_password";
 
-📊 ER Diagram
+
 
 
 
